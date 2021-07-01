@@ -97,7 +97,7 @@ const FramerMotionIndex = () => {
 			</button>
 			<p>test git 12345</p>
 			<p>feature001 1 2 3</p>
-			<p>feature001 4</p>
+			<p>feature001 4 5</p>
 			<div>
 				<motion.div className="box" animate={control}></motion.div>
 			</div>
