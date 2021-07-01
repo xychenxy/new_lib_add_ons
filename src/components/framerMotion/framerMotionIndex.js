@@ -95,7 +95,7 @@ const FramerMotionIndex = () => {
 			>
 				stop
 			</button>
-			<p>test git 123</p>
+			<p>test git 1234</p>
 			<div>
 				<motion.div className="box" animate={control}></motion.div>
 			</div>
